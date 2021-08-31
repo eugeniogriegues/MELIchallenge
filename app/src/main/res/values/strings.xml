@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MELIchallenge</string>
+    <string name="fondoSearch">Ingrese producto a buscar</string>
+    <string name="contentDescription">imagenDescription</string>
+</resources>
